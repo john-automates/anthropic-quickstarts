@@ -1,5 +1,5 @@
 FROM docker.io/ubuntu:22.04
-
+# Non-interactive frontend
 ENV DEBIAN_FRONTEND=noninteractive
 ENV DEBIAN_PRIORITY=high
 
